@@ -1,0 +1,14 @@
+STEPS..........
+
+Add the library of Servo motor & Ultrasonic sensor
+
+1] Open Arduino IDE 
+2] Click on Sketch 
+3] Click on Include Library
+4] Click on Add.ZIP library..
+5] Choose the files
+	*Arduino_New_Ping-master
+	*Servo-master
+6] Open the ino file
+	Obstrucle_Avoiding_Robot.ino
+7] Compile it and upload to the arduino board
